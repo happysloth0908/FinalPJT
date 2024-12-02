@@ -50,7 +50,7 @@ import { RouterLink } from 'vue-router';
  position: relative;
  overflow: hidden;
  width: 100%;
- max-width: 2000px; /* 배너 최대 너비 증가 */
+ max-width: 1400px; /* 배너 최대 너비 증가 */
  margin: 70px auto;
  box-shadow: 0 10px 30px rgba(74, 144, 226, 0.15);
  padding: 60px 80px; /* 내부 여백 증가 */
